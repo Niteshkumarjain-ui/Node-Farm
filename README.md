@@ -10,15 +10,4 @@ During Making this Project I learnt  :
 5:making own modules and exporting modules
 6: file reading and write in synchronous and asynchronous way
 
-You can fork the app or you can git-clone the app into your local machine. Once done that, please install all the dependencies by running
-
-$ git clone 
-
-$ cd node-farm
-
-Install project dependencies: $ npm install
-
-Start the app: $ npm start
-
-
 
